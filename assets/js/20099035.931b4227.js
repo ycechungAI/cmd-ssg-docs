@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcmd_ssg_doc=self.webpackChunkcmd_ssg_doc||[]).push([[919],{5641:function(s){s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"My First Steps in Open Source!","permalink":"/cmd-ssg-docs/blog/greetings"},{"title":"Example Blog Post","permalink":"/cmd-ssg-docs/blog/example-blog-post"}]}')}}]);

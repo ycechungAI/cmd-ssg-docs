@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ycechungAI.github.io/blog</id>
+    <title>CMD-SSG-DOCS Blog</title>
+    <updated>2021-09-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ycechungAI.github.io/blog"/>
+    <subtitle>CMD-SSG-DOCS Blog</subtitle>
+    <icon>https://ycechungAI.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[My First Steps in Open Source!]]></title>
+        <id>greetings</id>
+        <link href="https://ycechungAI.github.io/cmd-ssg-docs/blog/greetings"/>
+        <updated>2021-09-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello World,]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Example Blog Post]]></title>
+        <id>example-blog-post</id>
+        <link href="https://ycechungAI.github.io/cmd-ssg-docs/blog/example-blog-post"/>
+        <updated>2021-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
+    </entry>
+</feed>

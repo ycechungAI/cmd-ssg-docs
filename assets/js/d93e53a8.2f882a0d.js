@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcmd_ssg_doc=self.webpackChunkcmd_ssg_doc||[]).push([[302],{6828:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var c=t(7294),u=t(9118);function a(){return c.createElement(u.Z,null,c.createElement("h1",null,"My Enhancement of CMD-SSG page"),c.createElement("p",null,"This is a React page"))}}}]);

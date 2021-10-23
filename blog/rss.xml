@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>CMD-SSG-DOCS Blog</title>
+        <link>https://ycechungAI.github.io/blog</link>
+        <description>CMD-SSG-DOCS Blog</description>
+        <lastBuildDate>Mon, 06 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[My First Steps in Open Source!]]></title>
+            <link>https://ycechungAI.github.io/cmd-ssg-docs/blog/greetings</link>
+            <guid>greetings</guid>
+            <pubDate>Mon, 06 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello World,]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Example Blog Post]]></title>
+            <link>https://ycechungAI.github.io/cmd-ssg-docs/blog/example-blog-post</link>
+            <guid>example-blog-post</guid>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcmd_ssg_doc=self.webpackChunkcmd_ssg_doc||[]).push([[163],{2227:function(s){s.exports=JSON.parse('{"permalink":"/cmd-ssg-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
