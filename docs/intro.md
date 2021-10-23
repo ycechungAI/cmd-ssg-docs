@@ -70,7 +70,7 @@ Special Thanks  : Kevan Yang
 Markdown Feature: Oliver Pham
 Author          : Eugene Chung
 ```
-  
+
 ## License
 
-[MIT](LICENSE)
+[MIT](../LICENSE)
