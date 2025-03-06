@@ -2817,13 +2817,13 @@ browserslist@^4.0.0, browserslist@^4.12.0, browserslist@^4.16.0, browserslist@^4
     node-releases "^2.0.18"
     update-browserslist-db "^1.1.0"
 
-browserslist@^4.18.1:
-  version "4.18.1"
-  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.18.1.tgz#60d3920f25b6860eb917c6c7b185576f4d8b017f"
-  integrity sha512-8ScCzdpPwR2wQh8IT82CA2VgDwjHyqMovPBZSNH54+tm4Jk2pCuv90gmAdH6J84OCRWi0b4gMe6O6XPXuJnjgQ==
+browserslist@^4.19.0:
+  version "4.19.0"
+  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.19.0.tgz#5f02742ac2b86dde56ae4cef7be2b003e47b1ee0"
+  integrity sha512-JGHzm73ei2OnAcobcQ61GXNnN6vDCg5Oz5MayudL+FyzjoLnCzUWnuLtDLMIYw8aXgQzzdCZMVky+fftD5jbtA==
   dependencies:
-    caniuse-lite "^1.0.30001280"
-    electron-to-chromium "^1.3.896"
+    caniuse-lite "^1.0.30001286"
+    electron-to-chromium "^1.4.17"
     escalade "^3.1.1"
     node-releases "^2.0.1"
     picocolors "^1.0.0"
@@ -3024,7 +3024,7 @@ caniuse-api@^3.0.0:
     lodash.memoize "^4.1.2"
     lodash.uniq "^4.5.0"
 
-caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001125, caniuse-lite@^1.0.30001264, caniuse-lite@^1.0.30001280, caniuse-lite@^1.0.30001646:
+caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001125, caniuse-lite@^1.0.30001264, caniuse-lite@^1.0.30001286, caniuse-lite@^1.0.30001646:
   version "1.0.30001702"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001702.tgz#cde16fa8adaa066c04aec2967b6cde46354644c4"
   integrity sha512-LoPe/D7zioC0REI5W73PeR1e1MLCipRGq/VkovJnd6Df+QVqT+vT33OXCp8QUd7kA7RZrHWxb1B36OQKI/0gOA==
@@ -4436,7 +4436,7 @@ ee-first@1.1.1:
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
-electron-to-chromium@^1.3.564, electron-to-chromium@^1.3.896, electron-to-chromium@^1.5.4:
+electron-to-chromium@^1.3.564, electron-to-chromium@^1.4.17, electron-to-chromium@^1.5.4:
   version "1.5.112"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.112.tgz#8d3d95d4d5653836327890282c8eda5c6f26626d"
   integrity sha512-oen93kVyqSb3l+ziUgzIOlWt/oOuy4zRmpwestMn4rhFWAoFJeFuCVte9F2fASjeZZo7l/Cif9TiyrdW4CwEMA==
@@ -6233,10 +6233,10 @@ immer@8.0.1:
   resolved "https://registry.yarnpkg.com/immer/-/immer-8.0.1.tgz#9c73db683e2b3975c424fb0572af5889877ae656"
   integrity sha512-aqXhGP7//Gui2+UrEtvxZxSquQVXTpZ7KDxfCcKAF3Vysvw0CViVaW9RZ1j1xlIYqaaaipBoqdqeibkc18PNvA==
 
-immer@^9.0.9:
-  version "9.0.9"
-  resolved "https://registry.yarnpkg.com/immer/-/immer-9.0.9.tgz#677de0fe95307c7792d48ba5edb65f344d84dacd"
-  integrity sha512-LLIzVsphTk8pMepJ48NSm7GTYJdvtasQKNLzLkz7pqXUwoMBWPYn3Xmi0dc59l9Q3bIxUKK5rzM00+b/uuPt3Q==
+immer@^9.0.10:
+  version "9.0.10"
+  resolved "https://registry.yarnpkg.com/immer/-/immer-9.0.10.tgz#218002426af455bd59fd4a2731805e5370ddcb15"
+  integrity sha512-qR0UPbjDUUrQHeSRaEZjaxCWBPtYzRJeaN0ZSUeIDCssAwqFH2pwyzUyBw+Hru152o+WvyxV1dgrHK2a9YmWxg==
 
 import-fresh@^2.0.0:
   version "2.0.0"
