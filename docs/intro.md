@@ -73,4 +73,4 @@ Author          : Eugene Chung
 
 ## License
 
-[MIT](../LICENSE)
+[MIT](https://github.com/ycechungAI/cmd-ssg-doc/blob/main/LICENSE)

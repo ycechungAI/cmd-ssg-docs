@@ -8,14 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'CMD-SSG-DOCS',
   tagline: 'Dinosaurs are cool, but cmd-ssg is cooler',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://ycechungai.github.io',
+  baseUrl: '/cmd-ssg-doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
+  organizationName: 'ycechungAI', // Usually your GitHub org/user name.
+  projectName: 'cmd-ssg-doc', // Usually your repo name.
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -24,13 +23,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/ycechungAI/cmd-ssg-doc/edit/main/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/ycechungAI/cmd-ssg-doc/edit/main/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -60,7 +59,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ycechungAI/cmd-ssg-doc',
             label: 'GitHub',
             position: 'right',
           },
@@ -104,7 +103,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ycechungAI/cmd-ssg-doc',
               },
             ],
           },

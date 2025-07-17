@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            cmd-ssg-doc
+            View Documentation
           </Link>
         </div>
       </div>
